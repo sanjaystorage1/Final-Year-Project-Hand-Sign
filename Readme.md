@@ -1,0 +1,17 @@
+ - This folder will contain image dataset
+- data folder has 26 subfolders, each subfolder contains images of a character from A-Z
+- test folder  contains the test dataset used for understanding the concept of feature extraction, have 2 subfolders, each subfolder contains images of a character from the English alphabet
+- Each subfolder contains 100 images of the corresponding character
+- The images are in .jpg format
+- The images are of size 640x480 pixels
+- The images are in BGR (Blue, Green, Red) format.(OpenCV uses BGR format)
+- The images are of different fonts, sizes, and colors
+- The images are of different backgrounds
+- The images are of different rotations
+- The images are of different orientations
+- The images are of different noise levels
+- The images are of different lighting conditions
+- The images are of different contrasts
+- The images are of different blurriness
+- The images are of different brightness
+- The images are of different sharpness
